@@ -1,0 +1,15 @@
+{
+  "name": "app_store_data_analysis",
+  "version": "1.0.0",
+  "description": "Analyse the data of app store, using node js module ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayushi Jain",
+  "license": "ISC",
+  "dependencies": {
+    "google-play-scraper": "^8.0.2",
+    "plotly": "^1.0.6"
+  }
+}
